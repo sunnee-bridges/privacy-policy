@@ -17,6 +17,18 @@ We do not collect personally identifiable information ("Personal Information") t
 
 We do not collect Log Data.
 
+## Parental Consent
+
+If we determine that a user is a child under 13, and we need to collect Personal Information, we will obtain verifiable parental consent before collecting any Personal Information from the child.
+
+## Parental Access
+
+Parents have the right to review and request deletion of their child's Personal Information. To do so, please contact us at [Your Contact Email].
+
+## COPPA Compliance
+
+Our App is in compliance with the Children's Online Privacy Protection Act (COPPA). We take additional steps to protect the privacy of children under 13.
+
 ## Cookies
 
 We do not use cookies.
